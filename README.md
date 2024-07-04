@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **techie4coffee@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFy4nBuJls/o_lkGoiBuiYoAz1dRZr6yQ/edit?utm_content=DAFy4nBuJls&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFy4nBuJls/o_lkGoiBuiYoAz1dRZr6yQ/edit?utm_content=DAFy4nBuJls&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAFy4nBuJls/o_lkGoiBuiYoAz1dRZr6yQ/edit?utm_content=DAFy4nBuJls&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **I am curious to learn new stuffs**
 
