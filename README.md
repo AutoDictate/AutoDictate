@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **Microservice Architecture**
 
-- 👨‍💻 All of my projects are available at [https://jayasurya-portfolio.web.app/](https://jayasurya-portfolio.web.app/)
+- 👨‍💻 All of my projects are available at [jayasurya-portfolio](https://jayasurya-portfolio.web.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@jayasurya_a](https://medium.com/@jayasurya_a)
+- 📝 I regularly write articles on [medium.com/@jayasurya_a](https://medium.com/@jayasurya_a)
 
 - 💬 Ask me about **Java, Spring, Spring Boot, Spring Security, JWT**
 
