@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **SpringBoot Projects**
 
-- 🌱 I’m currently learning **Javascript, React.JS**
+- 🌱 I’m currently learning **Spring Security, Spring Cloud, Spring Microservices**
 
 - 👨‍💻 All of my projects are available at [https://autodictate.github.io/Dynamic-Portfolio/](https://autodictate.github.io/Dynamic-Portfolio/)
 
-- 💬 Ask me about **Java, HTML and CSS**
+- 💬 Ask me about **Spring, Spring Boot, Spring Security, JWT**
 
-- 📫 How to reach me **jayasurya0206@gmail.com**
+- 📫 How to reach me **techie4coffee@gmail.com**
 
 - 📄 Know about my experiences [https://autodictate.github.io/Dynamic-Portfolio/](https://autodictate.github.io/Dynamic-Portfolio/)
 
