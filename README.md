@@ -1,43 +1,120 @@
-<h1 align="center">Hi 👋, I'm Jayasurya</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=autodictate&label=Profile%20views&color=0e75b6&style=flat" alt="autodictate" /> </p>
+# 👋 Hi, I'm Jayasurya A
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=autodictate" alt="autodictate" /></a> </p>
+### Software Engineer | Java | Spring Boot | SAP Commerce Cloud | Microservices
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+I'm a Software Engineer from **Chennai, India**, passionate about building scalable backend systems, enterprise applications, and e-commerce solutions.
 
+Currently working at **Tata Consultancy Services (TCS)** on a **B2B healthcare e-commerce platform**, working primarily with **Java, SAP Commerce Cloud, OCC APIs, SOLR, FlexibleSearch, and Azure**.
 
-- 🔭 I’m currently working on **Spring Boot Projects**
+Previously, I worked on **Java/Spring Boot microservices** across tourism and gaming platforms, with hands-on experience in **AWS, Docker, REST APIs, JWT authentication, payment integration, and distributed systems**.
 
-- 🌱 I’m currently learning **Spring Security, Spring Cloud, Spring Microservices, Go lang**
+---
 
-- 🤝 I’m looking for help with **Microservice Architecture**
+## 🛠️ Tech Stack
 
-- 👨‍💻 All of my projects are available at [jayasurya-portfolio](https://jayasurya-portfolio.web.app/)
+### Backend
 
-- 📝 I regularly write articles on [medium.com/@jayasurya_a](https://medium.com/@jayasurya_a)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-- 💬 Ask me about **Java, Spring, Spring Boot, Spring Security, JWT**
+### SAP Commerce
 
-- 📫 How to reach me **techie4coffee@gmail.com**
+![SAP](https://img.shields.io/badge/SAP_Commerce-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+![SOLR](https://img.shields.io/badge/Apache_SOLR-D9411E?style=for-the-badge&logo=apachesolr&logoColor=white)
 
-- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAFy4nBuJls/o_lkGoiBuiYoAz1dRZr6yQ/edit?utm_content=DAFy4nBuJls&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+**SAP Commerce Cloud · SAP Hybris · CCv2 · OCC · FlexibleSearch · Impex · hscore · hsfacade**
 
-- ⚡ Fun fact **I am curious to learn new stuffs**
+### Microservices
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jayasurya009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayasurya009" height="30" width="40" /></a>
-<a href="https://medium.com/@jayasurya_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jayasurya_a" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jayasurya0206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jayasurya0206" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lazythinker009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lazythinker009" height="30" width="40" /></a>
+**Eureka · Config Server · OpenFeign · Spring Cloud · REST APIs**
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**SQL · MySQL · MongoDB · AWS RDS**
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**AWS EC2 · AWS RDS · Azure · Docker · Kubernetes**
+
+### Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+**IntelliJ IDEA · Maven · SonarQube · Postman · Swagger · Jira · Git**
+
+---
+
+## 🌱 Currently Learning
+
+I'm currently expanding my knowledge beyond traditional backend development.
+
+### 🤖 AI & Generative AI
+
+- Python for AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- AI-powered application development
+
+My goal is to combine my **backend engineering experience with AI capabilities** to build practical, production-oriented applications.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=autodictate&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=autodictate&layout=compact&theme=transparent&hide_border=true" height="170" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=autodictate&theme=transparent&hide_border=true" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=autodictate&show_icons=true&locale=en&layout=compact" alt="autodictate" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=autodictate&show_icons=true&locale=en" alt="autodictate" /></p>
+## 📫 Connect With Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=autodictate&" alt="autodictate" /></p>
+<p align="left">
+  <a href="https://linkedin.com/in/jayasurya009" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@jayasurya_a" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/jayasurya0206" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/lazythinker009" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+📧 **Email:** techie4coffee@gmail.com
+
+---
+
+### 💡 A little about me
+
+> I enjoy understanding how systems work, solving backend problems, and continuously learning technologies that can help me build better software.
+
+---
+
+<p align="center">
+  <i>Building today. Learning continuously. Engineering for tomorrow.</i>
+</p>
